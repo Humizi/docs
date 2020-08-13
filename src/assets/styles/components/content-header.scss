@@ -1,0 +1,20 @@
+.content-header {
+  padding: 30px 15px;
+  
+  &__title {
+    margin-bottom: 10px;
+
+    font-weight: 400;
+  }
+
+  &__row {
+    display: flex;
+    margin-bottom: 10px;
+  }
+
+  &__subtitle {
+    margin-right: 5px;
+
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,11 @@
+.page {
+  display: flex;
+
+  &__content {
+    width: 100%;
+  }
+
+  &__content-blocks {
+    border-top: 1px solid $color-gray-light;
+  }
+}

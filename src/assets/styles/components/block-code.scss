@@ -1,0 +1,22 @@
+.block-code {
+  font-size: 12px;
+  color: $color-gray;
+  
+  background-color: $color-gray-dark;
+
+  &__title {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px;
+  }
+
+  &__content {
+    background-color: #000;
+  }
+
+  &__content-row {
+    padding: 10px 6px;
+
+    color: #fff;
+  }
+}
